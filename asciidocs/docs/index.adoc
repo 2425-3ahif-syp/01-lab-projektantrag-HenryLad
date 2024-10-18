@@ -9,6 +9,11 @@ ifndef::imagesdir[:imagesdir: images]
 Das Projekt umfasst die Entwicklung eines Chatbots, der Schülern, Lehrern und Eltern Informationen über Schultermine, Ferienzeiten und Schulregeln bereitstellt. Der Chatbot soll über eine benutzerfreundliche Oberfläche verfügen und auf verschiedenen Plattformen wie einer Website oder einer mobilen App verfügbar sein. Er soll in der Lage sein, häufig gestellte Fragen zu beantworten und relevante Informationen schnell bereitzustellen.
 
 === 1.2 Projektziele
+- Entwicklung eines benutzerfreundlichen Chatbots
+- Integration des Chatbots in eine Website und/oder mobile App
+- Bereitstellung von Informationen zu Schulterminen, Ferienzeiten und Schulregeln
+- Implementierung einer natürlichen Sprachverarbeitung zur Verbesserung der Benutzerinteraktion
+- Sicherstellung der Datenaktualität und -genauigkeit
 
 === 1.3 Projektnutzen
 
